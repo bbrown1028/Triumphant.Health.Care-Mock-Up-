@@ -30,6 +30,12 @@ h1 {
   box-shadow: 0 8px 25px rgba(15, 107, 143, 0.25);
 }
 
+h2{
+    margin-top: 40px;
+  font-size: 1.18rem;
+  border-left: 6px solid #18a999;
+}
+
 /* Navigation links */
 a {
   display: inline-block;
